@@ -54,12 +54,12 @@ SYN -> SYN-ACK -> ACK
 
 ### <u>Vulnerability Management Tools</u>
 
-- Nessus
-- Qualys
-- GFI Languard
-- Nikto
-- OpenVAS
-- Retina CS
+- [Nessus]
+- [Qualys]
+- [GFI-Languard]
+- [Nikto]
+- [OpenVAS]
+- [Retina-CS]
 
 ### <u>Terms to Know</u>
 
